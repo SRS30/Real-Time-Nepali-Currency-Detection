@@ -1,3 +1,0 @@
-0 10 Rupees
-1 20 Rupees
-2 100 Rupees
